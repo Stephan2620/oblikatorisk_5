@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQPFyLdiGqfEQANjFj9kvoh1yHcgJ5FkxfMNlhZM929bHbcQyTf5HywsFTtwg4ilLahV5ha5iDV6JWXx2bB31w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phano\\Desktop\\oblikatorisk_5\\BeerConsoleApp\\BeerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phano\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
